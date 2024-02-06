@@ -1,0 +1,6 @@
+@WebAPIÖvning_HostAddress = http://localhost:5298
+
+GET {{WebAPIÖvning_HostAddress}}/api/Products
+Accept: application/json
+
+###
