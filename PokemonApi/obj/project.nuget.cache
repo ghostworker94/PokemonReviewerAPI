@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8qq+BFbVd+qwwQyx91MPnn4L/QElaZsb4JGfk6tUpXiF3oQH/0ouZiEK+AgV2FoBJpmO6f+MtSq+0z+FA+ugQQ==",
+  "dgSpecHash": "a+oN/4x6u8E2azktDcC3NGIoAuxP4DT55WBeWTSINIbyOhfPY5I5tgDuESwLqODTEh2FCl5a6HafQdCFLKdf4w==",
   "success": true,
-  "projectFilePath": "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\WebAPIÖvning.csproj",
+  "projectFilePath": "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\WebAPIÖvning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henke\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\henke\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

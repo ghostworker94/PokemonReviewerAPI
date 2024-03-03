@@ -4,13 +4,11 @@ using PokemonReviewApp.Data;
 using PokemonReviewApp.Interfaces;
 using PokemonReviewApp.Models;
 using PokemonReviewApp.RepositoryHolder;
-using Microsoft.OpenApi.Models;
 using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-// Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddTransient<Seed>();
 builder.Services.AddControllers().AddJsonOptions(x =>
@@ -28,8 +26,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-
-builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlite("Data Source=PokemonReviewApp.db"));
+builder.Services.AddDbContext<DatabaseContext>(options => options.UseSqlite("Data Source=your_database.db"));
 
 var app = builder.Build();
 

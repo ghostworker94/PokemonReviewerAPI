@@ -256,3 +256,5 @@ d:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\obj\Debug\net8.0\WebAPIÖvning.ge
 d:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\obj\Debug\net8.0\ref\WebAPIÖvning.dll
 E:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\bin\Debug\net8.0\AutoMapper.dll
 E:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+d:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\bin\Debug\net8.0\AutoMapper.dll
+d:\Suvnet2023\OOP2\WebAPIÖvning\WebAPIÖvning\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

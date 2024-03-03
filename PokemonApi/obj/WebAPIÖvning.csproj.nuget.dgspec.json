@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\WebAPIÖvning.csproj": {}
+    "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\WebAPIÖvning.csproj": {}
   },
   "projects": {
-    "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\WebAPIÖvning.csproj": {
+    "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\WebAPIÖvning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\WebAPIÖvning.csproj",
+        "projectUniqueName": "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\WebAPIÖvning.csproj",
         "projectName": "WebAPIÖvning",
-        "projectPath": "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\WebAPIÖvning.csproj",
+        "projectPath": "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\WebAPIÖvning.csproj",
         "packagesPath": "C:\\Users\\henke\\.nuget\\packages\\",
-        "outputPath": "E:\\Suvnet2023\\OOP2\\WebAPIÖvning\\WebAPIÖvning\\obj\\",
+        "outputPath": "E:\\Suvnet2023\\OOP2\\API\\PokemonApi\\PokemonApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henke\\AppData\\Roaming\\NuGet\\NuGet.Config"
